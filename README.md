@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/secure-pipeline/rails-travis-example.svg?branch=master)](https://travis-ci.org/secure-pipeline/rails-travis-example) [![Code Climate](https://codeclimate.com/github/secure-pipeline/rails-travis-example.png)](https://codeclimate.com/github/secure-pipeline/rails-travis-example)
+[![Build Status](https://travis-ci.org/marcoshack/rails-travis-example.svg?branch=master)](https://travis-ci.org/secure-pipeline/rails-travis-example) [![Code Climate](https://codeclimate.com/github/secure-pipeline/rails-travis-example.png)](https://codeclimate.com/github/secure-pipeline/rails-travis-example)
 
 # Rails Travis Example
 
@@ -7,7 +7,7 @@ This repo contains a Ruby on Rails Application that is being tested with Travis 
 
 ## About the Ruby on Rails Application
 
-The app, Triage, was written by [Matt Konda](https://github.com/mkonda) and he awesomely donated it to be used for the secure pipeline project as the demo rails application.  Thanks Matt! Please see [Triage's README.md](https://github.com/Jemurai/triage/blob/master/README.md) for more infomation on the application. 
+The app, Triage, was written by [Matt Konda](https://github.com/mkonda) and he awesomely donated it to be used for the secure pipeline project as the demo rails application.  Thanks Matt! Please see [Triage's README.md](https://github.com/Jemurai/triage/blob/master/README.md) for more infomation on the application.
 
 ### Branches
 
@@ -17,7 +17,7 @@ Note that Triage *intentionally* has two branches:
 
 ### Setup
 
-Once cloned, you should only have to: 
+Once cloned, you should only have to:
 ```bash
 $ bundle install
 $ rake db:migrate
